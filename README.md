@@ -6,9 +6,9 @@ I reside in Philippines which makes me versatile on working in different industr
 
 ## S K I L L S 🧑‍💻
 
-![Static Badge](https://img.shields.io/badge/Video%20Editing%20-%20blue?style=plastic)
-![Static Badge](https://img.shields.io/badge/Graphics%20Designing%20-%20Green?style=plastic)
-![Static Badge](https://img.shields.io/badge/Programming%20-%20red?style=plastic)
+![Static Badge](https://img.shields.io/badge/Video%20Editing%20-%20blue?style=plastic) \n
+![Static Badge](https://img.shields.io/badge/Graphics%20Designing%20-%20Green?style=plastic) \n
+![Static Badge](https://img.shields.io/badge/Programming%20-%20red?style=plastic) \n
 
 
 ## S O F T W A R E S 💻
