@@ -52,7 +52,8 @@ Microsoft office softwares <br>
 
 Video Editor for UGCF <br>
 Video Editor for aPodcastGeek <br>
-Graphics Designer for glamgirls <br>
+Graphics Designer for Glamgirls <br>
+Shopify Manager for Glamgirls <br>
 Video Editor for Hyperverse <br>
 Virtual Assistant for Stealth Invest 7 LLCS <br>
 Video Editor for ICS <br>
