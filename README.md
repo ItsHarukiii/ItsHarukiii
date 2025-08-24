@@ -1,13 +1,13 @@
 ![Mark](https://github.com/ItsHarukiii/ItsHarukiii/blob/2ded0feb1bab4a89670d3bf9eae6fa4e857422cf/Haruki.jpg?raw=true)
 
-<h1>A B O U T   M E 😎</h1>
+## A B O U T   M E 😎
 
 
-## S K I L L S
+## S K I L L S 🧑‍💻
 
-## S O F T W A R E S
+## S O F T W A R E S 💻
 
-## E X P E R I E N C E S
+## E X P E R I E N C E S ✨
 
 
 
