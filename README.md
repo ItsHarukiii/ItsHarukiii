@@ -1,7 +1,6 @@
-<img>https://github.com/ItsHarukiii/ItsHarukiii/blob/2ded0feb1bab4a89670d3bf9eae6fa4e857422cf/Haruki.jpg</img>
 
 
-
+![Mark]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg](https://github.com/ItsHarukiii/ItsHarukiii/blob/2ded0feb1bab4a89670d3bf9eae6fa4e857422cf/Haruki.jpg)?raw=true)
 
 <!--
 **ItsHarukiii/ItsHarukiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
