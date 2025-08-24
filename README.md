@@ -23,9 +23,23 @@ I reside in Philippines which makes me versatile on working in different industr
 ![Static Badge](https://img.shields.io/badge/DART%20-%20%230077b6?style=plastic)
 
 
-## S O F T W A R E S 💻
+## S O F T W A R E S  A N D  W E B S I T E💻
 
-![Static Badge](https://img.shields.io/badge/SLACK%20-%20%23cbb2fe?style=plastic&logo=slack)
+Adobe Photoshop
+Adobe Premiere Pro
+Adobe After Effects
+Discord
+VSCode
+Trello
+Slack
+Monday.com
+Frame.io
+Air
+Clickup
+Asana
+Canva
+
+
 
 
 
