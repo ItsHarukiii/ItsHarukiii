@@ -41,12 +41,25 @@ Canva <br>
 Google Drive <br>
 Google Calendar <br>
 Dropbox <br>
-
-
-
-
+Notion <br>
+Chatgpt <br>
+Perplexity <br>
+Google Docs <br>
+Spreadsheet <br>
+Microsoft office softwares <br>
 
 ## E X P E R I E N C E S ✨
+
+Video Editor for UGCF <br>
+Video Editor for aPodcastGeek <br>
+Graphics Designer for glamgirls <br>
+Video Editor for Hyperverse <br>
+Virtual Assistant for Stealth Invest 7 LLCS <br>
+Video Editor for ICS <br>
+Graphics Designer for Elite Sports Sock <br>
+
+
+
 
 
 
