@@ -6,12 +6,25 @@ I reside in Philippines which makes me versatile on working in different industr
 
 ## S K I L L S 🧑‍💻
 
-![Static Badge](https://img.shields.io/badge/Video%20Editing%20-%20blue?style=plastic) <br>
-![Static Badge](https://img.shields.io/badge/Graphics%20Designing%20-%20Green?style=plastic) <br>
-![Static Badge](https://img.shields.io/badge/Programming%20-%20red?style=plastic) <br>
+![Static Badge](https://img.shields.io/badge/Video%20Editing%20-%20blue?style=plastic)
+![Static Badge](https://img.shields.io/badge/Graphics%20Designing%20-%20Green?style=plastic)
+![Static Badge](https://img.shields.io/badge/Programming%20-%20red?style=plastic)
+![Static Badge](https://img.shields.io/badge/Photo%20editing%20-%20orange?style=plastic)
 
+## P R O G R A M M I N G  L A N G U A G E S
+
+![Static Badge](https://img.shields.io/badge/HTML%20-%20darkorange?style=plastic)
+![Static Badge](https://img.shields.io/badge/CSS%20-%20lightblue?style=plastic)
+![Static Badge](https://img.shields.io/badge/PYTHON%20-%20darkblue?style=plastic)
+![Static Badge](https://img.shields.io/badge/C%23%20-%20green?style=plastic)
+![Static Badge](https://img.shields.io/badge/JAVASCRIPT%20-%20%23ffc300?style=plastic)
+![Static Badge](https://img.shields.io/badge/PHP%20-%20%236e44ff?style=plastic)
+![Static Badge](https://img.shields.io/badge/SQL%20-%20%23023047?style=plastic)
+![Static Badge](https://img.shields.io/badge/DART%20-%20%23001d3d?style=plastic)
 
 ## S O F T W A R E S 💻
+
+
 
 ## E X P E R I E N C E S ✨
 
