@@ -1,6 +1,6 @@
 ![Mark](https://github.com/ItsHarukiii/ItsHarukiii/blob/2ded0feb1bab4a89670d3bf9eae6fa4e857422cf/Haruki.jpg?raw=true)
 
-## A B O U T   M E 😎
+<h1>A B O U T   M E 😎</h1>
 
 
 ## S K I L L S
