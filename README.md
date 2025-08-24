@@ -25,19 +25,22 @@ I reside in Philippines which makes me versatile on working in different industr
 
 ## S O F T W A R E S  A N D  W E B S I T E💻
 
-Adobe Photoshop
-Adobe Premiere Pro
-Adobe After Effects
-Discord
-VSCode
-Trello
-Slack
-Monday.com
-Frame.io
-Air
-Clickup
-Asana
-Canva
+Adobe Photoshop <br>
+Adobe Premiere Pro <br>
+Adobe After Effects <br>
+Discord <br>
+VSCode <br>
+Trello <br>
+Slack <br>
+Monday.com <br>
+Frame.io <br>
+Air <br>
+Clickup <br> 
+Asana <br>
+Canva <br>
+Google Drive <br>
+Google Calendar <br>
+Dropbox <br>
 
 
 
