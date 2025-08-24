@@ -1,9 +1,15 @@
 ![Mark](https://github.com/ItsHarukiii/ItsHarukiii/blob/2ded0feb1bab4a89670d3bf9eae6fa4e857422cf/Haruki.jpg?raw=true)
 
 ## A B O U T   M E 😎
-
+Konichiwa! I'm Mark Junelle Manahan a fast learner who's eager to improve my skills in video editing, graphics design, and programming!
+I reside in Philippines which makes me versatile on working in different industries accross different countries by adjusting from timezone to timezone.
 
 ## S K I L L S 🧑‍💻
+
+![Static Badge](https://img.shields.io/badge/Video%20Editing%20-%20blue?style=plastic)
+![Static Badge](https://img.shields.io/badge/Graphics%20Designing%20-%20Green?style=plastic)
+![Static Badge](https://img.shields.io/badge/Programming%20-%20red?style=plastic)
+
 
 ## S O F T W A R E S 💻
 
