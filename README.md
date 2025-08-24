@@ -20,9 +20,12 @@ I reside in Philippines which makes me versatile on working in different industr
 ![Static Badge](https://img.shields.io/badge/JAVASCRIPT%20-%20%23ffc300?style=plastic)
 ![Static Badge](https://img.shields.io/badge/PHP%20-%20%236e44ff?style=plastic)
 ![Static Badge](https://img.shields.io/badge/SQL%20-%20%23023047?style=plastic)
-![Static Badge](https://img.shields.io/badge/DART%20-%20%23001d3d?style=plastic)
+![Static Badge](https://img.shields.io/badge/DART%20-%20%230077b6?style=plastic)
+
 
 ## S O F T W A R E S 💻
+
+![Static Badge](https://img.shields.io/badge/SLACK%20-%20%23cbb2fe?style=plastic&logo=slack)
 
 
 
